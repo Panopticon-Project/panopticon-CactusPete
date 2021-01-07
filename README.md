@@ -7,3 +7,5 @@ https://www.securityweek.com/china-linked-cactuspete-hackers-successful-despite-
 https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/
 
 https://www.pandasecurity.com/mediacenter/business/cactuspete-apt-group-new-atrgets/
+
+https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/
