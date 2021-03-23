@@ -11,3 +11,5 @@ https://www.pandasecurity.com/mediacenter/business/cactuspete-apt-group-new-atrg
 https://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/
 
 https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-exchange-vulnerabilities
+
+https://sebdraven.medium.com/a-net-rat-target-mongolia-9c1439c39bc2
